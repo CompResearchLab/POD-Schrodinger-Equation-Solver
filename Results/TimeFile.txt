@@ -1,0 +1,25 @@
+This file records computation time results for POD and DNS.
+DNS time: 0.998965s 
+POD Time Results: 
+Hamiltonian time creation (30) Modes : 0.003053s 
+Total time for solution composed of M modes: 
+ POD computation time and improvement for  1 Modes: 0.005744s, 173.908499 times quicker 
+ POD computation time and improvement for  2 Modes: 0.004846s, 206.146474 times quicker 
+ POD computation time and improvement for  3 Modes: 0.006234s, 160.242088 times quicker 
+ POD computation time and improvement for  4 Modes: 0.007343s, 136.039492 times quicker 
+ POD computation time and improvement for  5 Modes: 0.006745s, 148.104552 times quicker 
+ POD computation time and improvement for  6 Modes: 0.007101s, 140.679510 times quicker 
+ POD computation time and improvement for  7 Modes: 0.007035s, 142.003355 times quicker 
+ POD computation time and improvement for  8 Modes: 0.006657s, 150.069133 times quicker 
+ POD computation time and improvement for  9 Modes: 0.007826s, 127.650234 times quicker 
+ POD computation time and improvement for  10 Modes: 0.006545s, 152.623287 times quicker 
+ POD computation time and improvement for  11 Modes: 0.006690s, 149.322152 times quicker 
+ POD computation time and improvement for  12 Modes: 0.008924s, 111.941416 times quicker 
+ POD computation time and improvement for  13 Modes: 0.008537s, 117.020066 times quicker 
+ POD computation time and improvement for  14 Modes: 0.008610s, 116.022485 times quicker 
+ POD computation time and improvement for  15 Modes: 0.009076s, 110.061831 times quicker 
+ POD computation time and improvement for  16 Modes: 0.011347s, 88.037049 times quicker 
+ POD computation time and improvement for  17 Modes: 0.008940s, 111.737324 times quicker 
+ POD computation time and improvement for  18 Modes: 0.008859s, 112.757659 times quicker 
+ POD computation time and improvement for  19 Modes: 0.009707s, 102.912897 times quicker 
+ POD computation time and improvement for  20 Modes: 0.010388s, 96.166232 times quicker 
