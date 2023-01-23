@@ -3,7 +3,7 @@ README File for POD-Schrodinger Equation Solver
 Authors: Martin Veresko and Ming-Cheng Cheng
 
 The following code will solve the Time Independent Schrodinger equation
-using POD. The code is divided into three parts: Schro_Solver_QDs.m, POD_Library_Creation.m
+using POD. Make sure in your directory in which the code is installed you have all files located https://github.com/CompResearchLab/POD-Schrodinger-Equation-Solver. If you are missing a file or directory from this site the code will not run. The code is divided into three parts: Schro_Solver_QDs.m, POD_Library_Creation.m
 and POD_Schro_Solver.m. This first part, Schro_Solver_QDs.m, performs direct numerical simulations (DNSs) to train/collect 
 wave function data. The second part, POD_Library_Creation.m generates the POD library. Finally,
 POD_Schro_Solver.m will solve the POD Hamiltonian and will plot the error with 
@@ -30,6 +30,7 @@ guidelines. Information pertaining to each input is specified as a comment.
 
 Note:
 Do not delete the Library folder. Training data, stored modes and POD matrices are grabbed from here.
+Sometimes the Schro_Solver_QDs.m program will print everything to the display. Simply running clear will correct this issue.
 
 References:
 
