@@ -34,7 +34,7 @@ Sometimes the Schro_Solver_QDs.m program will print everything to the display. S
 
 References:
 
-Jiang, Lin, et al. "An effective physics simulation methodology based on a 
+Jiang, Lin, Martin Veresko, Yu Liu & Ming-C. Cheng, "An effective physics simulation methodology based on a 
 data-driven learning algorithm." Proceedings of the Platform for Advanced 
 Scientific Computing Conference. 2022.
 
