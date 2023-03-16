@@ -1,6 +1,6 @@
 README File for POD-Schrodinger Equation Solver
 2D POD Quantum Dot Solver 
-Authors: Martin Veresko and Ming-Cheng Cheng
+Authors: Martin Veresko
 
 The following code will solve the Time Independent Schrodinger equation
 using POD. Make sure in your directory in which the code is installed you have all files located https://github.com/CompResearchLab/POD-Schrodinger-Equation-Solver. If you are missing a file or directory from this site the code will not run. The code is divided into three parts: Schro_Solver_QDs.m, POD_Library_Creation.m
