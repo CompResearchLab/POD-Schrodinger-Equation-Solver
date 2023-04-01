@@ -2,6 +2,10 @@ README File for POD-Schrodinger Equation Solver
 2D POD Quantum Dot Solver 
 Authors: Martin Veresko
 
+Please cite the following papers:
+* M.C. Cheng, A reduced-order representation of the Schrödinger equation, AIP Advances 6, 095121 (2016) https://doi.org/10.1063/1.4963835 
+* M. Veresko & M.C. Cheng, Physics-informed Reduced-Order Learning from the First Principles for Simulation of Quantum Nanostructures, (2023). arXiv preprint arXiv:2302.00100.
+
 The following code will solve the Time Independent Schrodinger equation
 using POD. Make sure in your directory in which the code is installed you have all files located https://github.com/CompResearchLab/POD-Schrodinger-Equation-Solver. If you are missing a file or directory from this site the code will not run. The code is divided into three parts: Schro_Solver_QDs.m, POD_Library_Creation.m
 and POD_Schro_Solver.m. This first part, Schro_Solver_QDs.m, performs direct numerical simulations (DNSs) to train/collect 
@@ -32,21 +36,6 @@ Note:
 Do not delete the Library folder. Training data, stored modes and POD matrices are grabbed from here.
 Sometimes the Schro_Solver_QDs.m program will print everything to the display. Simply running clear will correct this issue.
 
-References:
-
-Jiang, Lin, Martin Veresko, Yu Liu & Ming-C. Cheng, "An effective physics simulation methodology based on a 
-data-driven learning algorithm." Proceedings of the Platform for Advanced 
-Scientific Computing Conference. 2022.
-
-Veresko, Martin, and Ming-Cheng Cheng. "An Effective Simulation Methodology 
-of Quantum Nanostructures based on Model Order Reduction." 2021 International 
-Conference on Simulation of Semiconductor Processes and Devices (SISPAD). IEEE, 2021.
-
-Cheng, Ming-C. "A reduced-order representation of the Schrödinger equation." 
-AIP Advances 6.9 (2016): 095121.
-
-Cheng, Ming-C. "Quantum element method for quantum eigenvalue problems derived 
-from projection-based model order reduction." AIP Advances 10.11 (2020): 115305.
 
 
 
