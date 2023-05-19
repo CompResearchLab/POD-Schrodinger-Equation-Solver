@@ -4,7 +4,7 @@ Authors: Martin Veresko and Min-Cheng Cheng
 
 Please cite the following papers:
 * M.C. Cheng, A reduced-order representation of the Schrödinger equation, AIP Advances 6, 095121 (2016) https://doi.org/10.1063/1.4963835 
-* M. Veresko & M.C. Cheng, Physics-informed Reduced-Order Learning from the First Principles for Simulation of Quantum Nanostructures, (2023). arXiv preprint arXiv:2302.00100.
+* M. Veresko, M.C. Cheng, Physics-informed reduced-order learning from the first principles for simulation of quantum nanostructures. Sci Rep 13, 6197 (2023). https://doi.org/10.1038/s41598-023-33330-9
 
 The following code will solve the Time Independent Schrodinger equation
 using POD. Make sure in your directory in which the code is installed you have all files located https://github.com/CompResearchLab/POD-Schrodinger-Equation-Solver. If you are missing a file or directory from this site the code will not run. The code is divided into three parts: Schro_Solver_QDs.m, POD_Library_Creation.m
