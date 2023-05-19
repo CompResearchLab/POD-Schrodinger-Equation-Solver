@@ -1,6 +1,6 @@
 README File for POD-Schrodinger Equation Solver
 2D POD Quantum Dot Solver 
-Authors: Martin Veresko
+Authors: Martin Veresko and Min-Cheng Cheng
 
 Please cite the following papers:
 * M.C. Cheng, A reduced-order representation of the Schrödinger equation, AIP Advances 6, 095121 (2016) https://doi.org/10.1063/1.4963835 
